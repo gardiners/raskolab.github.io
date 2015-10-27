@@ -1,14 +1,10 @@
 ---
 layout: page
 title: Rasko lab
-tagline: Where introns must be retained
 ---
-{% include JB/setup %}
+![Testimage1]({{ BASE_PATH }}/images/test.gif)
 
-    
 ## Recent updates 
-
-Here's a sample "posts list".
 
 <ul class="posts">
   {% for post in site.posts %}
