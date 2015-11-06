@@ -1,7 +1,7 @@
 ---
 layout: page
-title: "People"
-description: ""
+title: People
+group: navigation
 ---
 {% include JB/setup %}
 People here
