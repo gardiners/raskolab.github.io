@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Prospects"
-description: ""
+title: Research opportunities
+groups: navigation
 ---
 {% include JB/setup %}

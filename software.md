@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Software"
-description: ""
+title: Software
+group: navigation
 ---
 {% include JB/setup %}
