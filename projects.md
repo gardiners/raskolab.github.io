@@ -1,6 +1,5 @@
 ---
 layout: page
-title: "Projects"
-description: ""
+title: Projects
 ---
 {% include JB/setup %}
