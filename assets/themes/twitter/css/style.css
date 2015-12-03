@@ -1,9 +1,11 @@
 /* Override some defaults */
 html, body {
   background-color: #eee;
+  font-family: "Noto Sans";
 }
 body {
   padding-top: 40px; /* 40px to make the container go all the way to the bottom of the topbar */
+    font-family: "Noto Sans";
 }
 .container > footer p {
   text-align: center; /* center align it with the container */
@@ -68,4 +70,3 @@ body {
 	border:1px solid #4C964D;
 	color:#FFF;
 }
-	
