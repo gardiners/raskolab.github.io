@@ -1,6 +1,9 @@
 # This is the default format.
 # For more see: http://jekyllrb.com/docs/permalinks/
 
+# Permalinks
+permalink: /blog/:categories/:title.html
+
 exclude: [".rvmrc", ".rbenv-version", "README.md", "Rakefile", "changelog.md"]
 highlighter: pygments
 
@@ -8,24 +11,12 @@ highlighter: pygments
 # so be sure to set them if your theme uses them.
 #
 title : Rasko lab
-tagline:
 author : raskolab
 name : raskolab
 email : raskolab@gmail.com
 github : raskolab
 twitter : raskolab
 feedburner : feedname
-
-
-# Pages list
-pages_list:
-  Research: '/research.html'
-  People: '/people.html'
-  Projects: 'projects.html'
-  #Blog: '/blog'
-  Contact: '/contact.html'
-  #Feed: '/blog/atom.xml'
-
 
 
 
