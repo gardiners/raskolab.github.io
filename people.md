@@ -73,4 +73,4 @@ group: navigation
 - [Abram Wassef](./profiles/abram) - continuing PhD at the Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
 
 #### Research Assistants
-- [Trung???](./profiles/trung) - PhD student, Lister Lab, University of Western Australia
+- [Trung Viet Nguyen](./profiles/trung) - PhD student, [Lister Lab](http://listerlab.org/), University of Western Australia
