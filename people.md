@@ -7,7 +7,7 @@ group: navigation
 
 <center>
 <figure>
-<img src="http://www.penguins-world.com/wp-content/uploads/king-penguins-on-the-beach.jpg" alt="Group Photo">
+<img src="./images/labphoto2015.jpg" alt="Group Photo">
 <figcaption>Group Retreat 2015, Hunter Valley NSW</figcaption>
 </figure>
 </center>
