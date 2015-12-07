@@ -7,7 +7,7 @@ group: navigation
 
 <center>
 <figure>
-<img src="./images/labphoto2015.jpg" alt="Group Photo">
+<img src="./images/labphoto2015.jpg" alt="Group Photo" width="600">
 <figcaption>Group Retreat 2015, Hunter Valley NSW</figcaption>
 </figure>
 </center>
