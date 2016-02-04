@@ -1,6 +1,6 @@
 ---
 layout: page
-title: YourNameHere
+title: Natalia Pinello
 ---
 {% include JB/setup %}
 
@@ -8,3 +8,4 @@ title: YourNameHere
 
 
 This is some text about me.
+I'm a Reasearch Assistant working on Intron Retention.  
