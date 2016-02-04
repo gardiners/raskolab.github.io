@@ -1,6 +1,6 @@
 ---
 layout: page
-title: YourNameHere
+title: Justin Wong
 ---
 {% include JB/setup %}
 
