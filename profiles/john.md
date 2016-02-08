@@ -6,6 +6,7 @@
 {% include JB/setup %}
 
 ## John E. J. RASKO AO
+
 ### BSc (Med), MBBS (Hons), PhD, MAICD, FFSc(RCPA), FRCPA, FRACP, FAHMS
 
 <img src="http://www.centenary.org.au/wp-content/uploads/2015/05/Prof-John-Rasko-AO-Head-of-Stem-Cell-Program-.jpg" alt="John Rasko photo" height="200" width="200" align="left" style="margin: 5px 20px">
