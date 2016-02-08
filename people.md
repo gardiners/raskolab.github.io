@@ -15,7 +15,7 @@ group: navigation
 ***
 
 ### Gene and Stem Cell Therapy Program Head
-- [Professor John Rasko, AO](http://www.centenary.org.au/cen_author/professor-john-rasko-ao/)
+- [Professor John Rasko, AO](./profiles/john)
 
 ### Senior Research Officers
 - [Chuck Bailey](./profiles/chuck)
