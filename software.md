@@ -10,7 +10,7 @@ group: navigation
 <html>
 <h2>miREval 2.0</h2>
 <p>
-<a href="/mireval/">miREval 2.0</a>: predict miRNAs within your sequences.
+<a href="http://mimirna.centenary.org.au/mireval/">miREval 2.0</a>: predict miRNAs within your sequences.
 <p>
 <blockquote><a target="_blank" href="http://bioinformatics.oxfordjournals.org/content/early/2013/10/06/bioinformatics.btt545.short">miREval 2.0: a web tool for simple microRNA prediction in genome sequences</a><br>
 Gao D, Middleton R, Rasko JE, Ritchie W.<br>
@@ -19,7 +19,7 @@ Bioinformatics 2013
 </blockquote>
 <p>
 <h2>mimiRNA</h2>
-<p><a href="/mep/formulaire.html">mimiRNA</a>: the microRNA expression profiler.
+<p><a href="http://mimirna.centenary.org.au/mep/formulaire.html">mimiRNA</a>: the microRNA expression profiler.
 <p>
 <blockquote><a target="_blank" href="http://bioinformatics.oxfordjournals.org/content/26/2/223.long">mimiRNA: a microRNA expression profiler and classification resource designed to identify functional correlations between microRNAs and their targets.</a><br>
 Ritchie W, Flamant S, Rasko JE.<br>
