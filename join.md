@@ -7,6 +7,7 @@ published: true
 
 {% include JB/setup %}
 
+## Currently available projects
 
 ### Uncovering patterns of gene regulation in human disease via bioinformatics 
 
@@ -26,6 +27,7 @@ Ovarian cancer is the deadliest gynaecological cancer, and affects 1300 women ea
  
 For more information please contact <a href="a.marshall@centenary.org.au" target="_top">Amy</a>. 
 
+*** 
 
 ### The role of intron retention in acute myeloid leukaemia
 
