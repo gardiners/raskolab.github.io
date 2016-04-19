@@ -4,8 +4,20 @@ title: Rasko lab
 ---
 ## Lab focus
 
-...
+The Gene and Stem Cell Therapy program at the Centenary Institute is focused on better understanding regenerative medicine to develop effective treatments for cancer, heart disease and genetic diseases. We use a combination of wet-lab approaches and bioinformatics analyses to achieve the following:
 
-John Rasko is a clinical hematologist, pathologist and scientist with a productive track record in gene and stem cell therapy, experimental haematology and molecular biology. In over 150 publications he has contributed to the understanding of stem cells and haemopoiesis, gene transfer technologies, oncogenesis, human aminoacidurias and non-coding RNAs.
+### Understanding disease
 
-He serves on Hospital, state and national bodies including Chair of GTTAC, Office of the Gene Technology Regulator – responsible for regulating all genetically-modified organisms in Australia - and Chair of the Advisory Committee on Biologicals, Therapeutic Goods Administration. Contributions to scientific organisations include co-founding (2000) and past-President (2003-5) of the Australasian Gene Therapy Society; Vice President, International Society for Cellular Therapy (2008-12) and founder (2009) ISCT-Australia; Scientific Advisory Committees and Board member for philanthropic foundations; and several Ethics Committees. He is the recipient of national (RCPA, RACP, ASBMB) and international awards in recognition of his commitment to excellence in medical research, including appointment as an Officer of the Order of Australia.
+We are focused on understanding how cancer cells work. Cancer is caused by the accumulation of mutations in DNA. Cancer causing mutations activate oncogenes or inactivate tumour suppressor genes. Multiple DNA mutations lead to the development of cancer.
+
+One tumour suppressor gene called CTCF is a DNA binding protein that is important for normal organisation of the chromatin, found in our chromosomes. Mutations and deletions of the CTCF gene occur in many cancer types including blood cancer. We are working to understand how CTCF functions in normal cells, and how changes in the CTCF gene lead to cancer development.
+
+
+### Finding a cure
+
+In the laboratory, we are focused on identifying the triggers that switch genes on and off in cancer cells with the long-term goal of developing new cancer therapies. Our research has discovered new ways to target blood cancer. It has also identified key nutrient pumps, which are vital to the growth of prostrate cancer cells. Using these discoveries and our knowledge of how cancer cells work, we are striving towards better therapeutics for the treatment of cancer.
+
+### Gene regulation via intron retention and alternative splicing
+
+In 2013, we reported that a mode of alternative splicing termed intron retention (IR) is an evolutionarily conserved mechanism regulating normal gene expression via nonsense-mediated decay (NMD). Subsequent to our original discovery in human and mouse myeloid cells, we and others have demonstrated IR as a widespread mechanism that controls transcription of messenger RNA (mRNA) in many different cell types. We are now building on this work to explore the role of IR in normal tissues and in diseases such as cancer. 
+
