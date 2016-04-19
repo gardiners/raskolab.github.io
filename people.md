@@ -65,7 +65,7 @@ group: navigation
 
 
 #### Senior Research Officers
-- [Dr William Ritchie](./profiles/williamr) - ...
+- [Dr William Ritchie](./profiles/williamr) - TAGC, Institut national de la sante et de la recherche medicale (INSERM - French Institute of Health and Medical Research), Marseille
 
 #### PhD Students
 - [Dadi Gao](./profiles/dadi) - Harvard Medical School  
