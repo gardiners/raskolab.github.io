@@ -8,7 +8,7 @@ published: true
 {% include JB/setup %}
 
 
-### UNCOVERING PATTERNS OF GENE REGULATION IN HUMAN DISEASE VIA BIOINFORMATICS 
+### Uncovering patterns of gene regulation in human disease via bioinformatics 
 
 The Gene and Stem Cell Therapy Program, led by Prof. John Rasko, recently identified a previously unknown mechanism of gene regulation that may help to understand mechanisms underlying human disease. An innovative experimental technique prototyped in our group allows us to study gene regulation at a level of detail that has not been achieved before. The aim for this honours project is to analyse RNA sequencing data (Illumina/PacBio platforms) and search for patterns of alternative splicing. Furthermore, we will analyse if these patterns are evolutionarily conserved and/or can be used as biomarker for disease diagnosis/prognosis. Parts of the analyses will be performed on a High Performance Computing system. We are seeking motivated students of computer science or computational biology who want to apply methods involving pattern recognition of ‘Big Data’. You will be joining a team of passionate researchers at the Centenary Institute. If you are interested, come and visit us!
 
@@ -18,7 +18,7 @@ The Gene and Stem Cell Therapy Program, led by Prof. John Rasko, recently identi
 
 *** 
 
-### HOW DOES ALTERED CHROMATIN ORGANISATION LEAD TO OVARIAN CANCER?
+### How does altered chromatin organisation lead to ovarian cancer?
 
 Ovarian cancer is the deadliest gynaecological cancer, and affects 1300 women each year in Australia. We have found that over 80% of ovarian cancers carry mutations and/or deletions in the CTCF gene. CTCF is a DNA binding protein that plays a critical role in epigenetics and gene regulation. CTCF is known widely as the “master weaver of the genome”. We have previously shown that CTCF can act as a tumour suppressor gene. We will employ expression of cancer specific CTCF mutants and/or CTCF knockdown in ovarian cancer cell lines. These cell lines will then be used in various biological assays including cell growth, colony formation, apoptosis, cell morphology, stem cell, gene expression and chromatin conformation assays, to elucidate the role CTCF in ovarian cancer development and progression.
 
@@ -27,7 +27,7 @@ Ovarian cancer is the deadliest gynaecological cancer, and affects 1300 women ea
 For more information please contact <a href="a.marshall@centenary.org.au" target="_top">Amy</a>. 
 
 
-### THE ROLE OF INTRON RETENTION IN ACUTE MYELOID LEUKAEMIA
+### The role of intron retention in acute myeloid leukaemia
 
 **Supervisors**: <a href="j.wong@centenary.org.au" target="_top">Doctor Justin Wong</a>, Professor John Rasko
 
@@ -58,7 +58,7 @@ We are internationally acclaimed expert in the characterisation of IR in normal 
 
 ***
 
-### UNRAVELLING ABNORMAL GENE EXPRESSION TO UNDERSTAND BREAST CANCER
+### Unravelling abnormal gene expression to understand breast cancer
 
 Breast cancer is the most common cancer affecting Australian women, comprising over 14,000 women and 100 men each year. We have found that over half of breast cancers carry mutations and/or deletions in the CTCF gene. CTCF is a DNA binding protein that plays a critical role in epigenetics and gene regulation. CTCF is known widely as the “master weaver of the genome”. We have previously shown that CTCF can act as a tumour suppressor gene. In this project we will characterise the specific contribution of CTCF gene deletion to breast cancer. To achieve this aim we will target CTCF expression using small hairpin RNA molecules targeting CTCF in breast cancer cell lines. These cell lines will be grown using 3D spheroid culture techniques to analyse cell morphology and stem-cell properties by performing 3D imaging on confocal and deconvolution microscopes.
 
@@ -68,7 +68,7 @@ For more information please contact <a href="a.marshall@centenary.org.au" target
 
 ***
 
-### THE ROLE OF IKZF1 (IKAROS) IN ACUTE MYELOID LEUKAEMIA
+### The role of IKZF1 (IKAROS) in acute myeloid leukaemia
 
 #### Background
 
@@ -100,7 +100,7 @@ Candidates may be offered top-up scholarships.
 ***
 
 
-### MOLECULAR TECHNIQUES TO STUDY THE THREE DIMENSIONAL ARCHITECTURE OF THE GENOME
+### Molecular techniques to study the three dimensional architecture of the genome
 
 CTCF is a DNA binding protein that plays a critical role in epigenetics and gene regulation leading to it being called the “master weaver of the genome”. One of its many roles in the cell nucleus is to form chromatin loops at a large number gene loci which act to switch genes on and off. We have found that CTCF is mutated or deleted in diverse common cancers. This project will investigate the effect of CTCF knockdown on chromatin structure at several cancer-associated gene loci using Chromatin Conformation Capture (3C) and correlate this with changes in gene expression. 3C is a sophisticated molecular biology technique already established in our laboratory. 3C is used by us to characterise the folding of chromatin at gene loci and the structural organisation of chromosomes. We will explore the role of CTCF in the regulation of gene expression using this and other techniques.
 
