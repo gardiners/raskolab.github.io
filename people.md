@@ -30,10 +30,12 @@ group: navigation
 - [Darya Vanichkina](./profiles/darya)
 
 ### Graduate Students
-- [Fiona Guan](./profiles/fiona)
+- [Frank Jia](./profiles/frank) 
 - [Liane Khoo](./profiles/liane)
 - [Keren Weiss](./profiles/keren)
-- [Blake Zhang](./profiles/blake)
+
+### Honours Students
+- [Maninda Amarasekera](./profiles/maninda)
 
 ### Research Assistants
 - [Yue (Julie) Feng](./profiles/juliefeng)
@@ -47,30 +49,27 @@ group: navigation
 - [Angel Jaramillo](./profiles/angel)
 - [Janet Macpherson](./profiles/janet)
 
-### Summer Research Scholars
-- [Maninda Amarasekera](./profiles/maninda)
-
-### Visitors
-- [Frank Jia](./profiles/frank)
-
 ***
 
 ### Former Lab Members
 
-#### Senior Research Officers
-- [A/Prof Jeff Holst](./profiles/jeff) - Group Leader, Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
-- [Dr William Ritchie](./profiles/williamr) - ...
+#### Origins of Cancer Laboratory
 
-#### Research Officers
+- [A/Prof Jeff Holst](./profiles/jeff) - Group Leader, Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
 - [Kevin Wang](./profiles/kevin) - Research Officer, Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
 - [Rae-Anne Hardie](./profiles/raeanne) - Research Officer, Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
+- [Michelle van Geldermalsen](./profiles/michelle) - continuing PhD at the Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
+- [Nick Otte](./profiles/nickotte) - continuing PhD at the Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
+- [Blake Zhang](./profiles/blake) - continuing PhD at the Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
+- [Abram Wassef](./profiles/abram) - continuing PhD at the Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
 
+
+#### Senior Research Officers
+- [Dr William Ritchie](./profiles/williamr) - ...
 
 #### PhD Students
 - [Dadi Gao](./profiles/dadi) - Harvard Medical School  
-- [Michelle van Geldermalsen](./profiles/michelle) - continuing PhD at the Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
-- [Nick Otte](./profiles/nickotte) - continuing PhD at the Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
-- [Abram Wassef](./profiles/abram) - continuing PhD at the Origins of Cancer Laboratory, University of Sydney Charles Perkins Centre
+- [Fiona Guan](./profiles/fiona)
 
 #### Research Assistants
 - [Trung Viet Nguyen](./profiles/trung) - PhD student, [Lister Lab](http://listerlab.org/), University of Western Australia
