@@ -3,7 +3,7 @@ layout: page
 title: Rasko lab
 ---
 
-<center>![Image1](https://cloud.githubusercontent.com/assets/3272378/14804778/9001b9e0-0ba9-11e6-8a3f-9e1024bf9ad2.jpg)</center>
+<img align="center" src=https://cloud.githubusercontent.com/assets/3272378/14804778/9001b9e0-0ba9-11e6-8a3f-9e1024bf9ad2.jpg alt="Image1"></img>
 
 
 ## Lab focus
