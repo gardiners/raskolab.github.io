@@ -4,9 +4,7 @@ title: Available Projects
 group: navigation
 published: true
 ---
-
 {% include JB/setup %}
-
 
 ## Currently available projects
 
