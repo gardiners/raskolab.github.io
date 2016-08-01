@@ -19,7 +19,7 @@ We are seeking motivated students of computer science or computational biology w
 
 **Supervisors**: John Rasko, Darya Vanichkina
 
-**Requirements**: Ideally you have some experience in a scripting language such as python and R programming, or are not daunted by the prospect of having to pick it up. For more information please contact <a href="mailto:d.vanichkina@centenary.org.au" target="_top">Darya<a>. 
+**Requirements**: Ideally you have some experience in a scripting language such as python and R programming, or are not daunted by the prospect of having to pick it up. For more information please contact <a href="mailto:d.vanichkina@centenary.org.au" target="_top">Darya</a>. 
 
 *** 
 
