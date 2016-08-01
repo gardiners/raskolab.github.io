@@ -9,7 +9,7 @@ published: true
 
 ## Currently available projects
 
-### Exploring the role of alternative splicing in glioma progression
+### <a href="#ASglioma">Exploring the role of alternative splicing in glioma progression</a>
 
 Gliomas are the most common form of cancer in the central nervous system, arising from glial cells such as astrocytes, oligodendrocytes and ependymal cells. Gliomas are classified grade I to grade IV based on histologic features (Wen and Kesari N Engl J Med 2008). Glioblastoma, a type of grade IV glioma that arises from astrocytes, is one of the deadliest of human cancers, with median survival of 14 months after maximal surgical resection, chemotherapy, and radiation therapy (Stupp et al. N Engl J Med 2005).
 
