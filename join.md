@@ -8,6 +8,19 @@ published: true
 {% include JB/setup %}
 
 ## Currently available projects
+### Exploring the role of alternative splicing in glioma progression
+
+Gliomas are the most common form of cancer in the central nervous system, arising from glial cells such as astrocytes, oligodendrocytes and ependymal cells. Gliomas are classified grade I to grade IV based on histologic features (Wen and Kesari N Engl J Med 2008). Glioblastoma, a type of grade IV glioma that arises from astrocytes, is one of the deadliest of human cancers, with median survival of 14 months after maximal surgical resection, chemotherapy, and radiation therapy (Stupp et al. N Engl J Med 2005).
+
+In this project, you will use publically available data and in-house bioinformatics tools to explore the roles of alternative splicing, especially a type of it called intron retention, in 272 glioma patients (Bao et al. Genome Res 2014). You will identify whether retention of specific introns in specific genes is associated with features such as cancer subtype, disease activation pathway and poorer prognosis. Observed splicing events will then be evaluated to assess whether they could be broadly applicable as novel disease biomarkers for diagnostics, or serve as druggable targets for personalized medicine therapy.  
+
+We are seeking motivated students of computer science or computational biology who want to apply methods involving pattern recognition of ‘Big Data’. You will be joining a team of passionate researchers at the Centenary Institute. If you are interested, come and visit us!
+
+**Supervisors**: John Rasko, Darya Vanichkina
+
+**Requirements**: Ideally you have some experience in a scripting language such as python and R programming, or are not daunted by the prospect of having to pick it up. For more information please contact <a href="mailto:d.vanichkina@centenary.org.au" target="_top">Darya<a>. 
+
+*** 
 
 ### Uncovering patterns of gene regulation in human disease via bioinformatics 
 
